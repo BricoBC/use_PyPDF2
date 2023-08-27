@@ -11,11 +11,11 @@ Para ejecutar el entorno virtual
 
 Para ejecutar en mi compu, utilizó el siguiente comando:
 
-```http
+```python
   python3 <archivo>.py
 ```
 
 Para instalar las dependencias que tengo es con el comando de:
-```http
+```python
   pip install -r requirements.txt
 ```
